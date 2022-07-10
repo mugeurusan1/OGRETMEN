@@ -6,5 +6,7 @@ public class YUCEL {
         System.out.println("yucel yazıldı");
         System.out.println("muge geldi");
         System.out.println("tatil oldu");
+
+        System.out.println("ıyı yolculuklar");
     }
 }
